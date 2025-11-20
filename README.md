@@ -11,3 +11,5 @@ Contributed to **Haystack** (deepset) by reporting issues, fixing typos, and cle
 - [“YYou” → “You” typo fix](https://github.com/deepset-ai/haystack/pull/10041) – fixed documentation typo  
 - [Removed repeated code snippet](https://github.com/deepset-ai/haystack/pull/10050) – cleaned up docs  
 - [Replaced broken Wikimedia image](https://github.com/deepset-ai/haystack/pull/10048) – fixed example image
+- [Code Snippet Example of Displaying a Graph in Visualizing Pipelines Pages Doesn't Exist](https://github.com/deepset-ai/haystack/issues/10078) - reported missing snippet
+- [RAG Examples of couchbase-haystack integrations contain a bug](https://github.com/Couchbase-Ecosystem/couchbase-haystack/issues/19) - Reported wrong code and suggested a solution
