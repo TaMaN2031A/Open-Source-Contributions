@@ -8,7 +8,7 @@ Contributed to **Haystack** (deepset) by reporting issues, fixing typos, and cle
 - [Recipe component mismatch and variable typo](https://github.com/deepset-ai/haystack/issues/10004) – reported recipe issue  
 - [Missing code snippet in “Displaying a Graph”](https://github.com/deepset-ai/haystack/issues/10078) – reported missing snippet  
 - [Missing imports in `ToolCallDelta` example](https://github.com/deepset-ai/haystack/issues/10044) – reported missing imports  
-- [“YYou” → “You” typo fix](https://github.com/deepset-ai/haystack/pull/10041) – fixed documentation typo  
+- [Typo fix](https://github.com/deepset-ai/haystack/pull/10041) – fixed documentation typo  
 - [Removed repeated code snippet](https://github.com/deepset-ai/haystack/pull/10050) – cleaned up docs  
 - [Replaced broken Wikimedia image](https://github.com/deepset-ai/haystack/pull/10048) – fixed example image
 - [Code Snippet Example of Displaying a Graph in Visualizing Pipelines Pages Doesn't Exist](https://github.com/deepset-ai/haystack/issues/10078) - reported missing snippet
