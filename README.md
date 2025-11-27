@@ -14,3 +14,4 @@ Contributed to **Haystack** (deepset) by reporting issues, fixing typos, and cle
 - [Replaced broken Wikimedia image](https://github.com/deepset-ai/haystack/pull/10048) – fixed example image
 - [Code Snippet Example of Displaying a Graph in Visualizing Pipelines Pages Doesn't Exist](https://github.com/deepset-ai/haystack/issues/10078) - reported missing snippet
 - [RAG Examples of couchbase-haystack integrations contain a bug](https://github.com/Couchbase-Ecosystem/couchbase-haystack/issues/19) - Reported wrong code and suggested a solution
+https://github.com/deepset-ai/haystack-integrations/pull/378
