@@ -16,3 +16,4 @@ Contributed to **Haystack** (deepset) by reporting issues, fixing typos, and cle
 - [Replaced broken Wikimedia image](https://github.com/deepset-ai/haystack/pull/10048) – fixed example image
 - [Code Snippet Example of Displaying a Graph in Visualizing Pipelines Pages Doesn't Exist](https://github.com/deepset-ai/haystack/issues/10078) - reported missing snippet
 https://github.com/deepset-ai/haystack-integrations/pull/378
+https://github.com/deepset-ai/haystack-integrations/pull/379#pullrequestreview-3528936030
